@@ -1,12 +1,13 @@
-#include <stdio.h>
-
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - program startup
+(*
+ * Description: prints the exact phrase followed by a new line)?
+ * Return: return (0) is the required function signature
  */
+
+#include <stdio.h>
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+  puts("\"Programming is like building a multilingual puzzle");
+   return (0);
 }	
