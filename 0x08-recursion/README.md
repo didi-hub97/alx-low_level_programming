@@ -14,4 +14,4 @@ Task 4: A function that returns the value of x raised to power y
 
 Task 5: A function that returns the natural square root of number
 
-
+Task 6: A function that returns 1 if input integer is prme else return 0
